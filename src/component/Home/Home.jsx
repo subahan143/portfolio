@@ -47,13 +47,13 @@ const Home = () => {
         <h1 className='text-[55px]'>Experience</h1>
         </div>
         
-        <div className='w-[100%] h-[70vh] flex items-center justify-center bo'>
-        <div className='w-[80%] h-[60vh] border-2 border-black rounded-[30px]'>
+        <div className='w-[100%] h-[70vh]   flex items-center justify-center '>
+        <div className='w-[80%] h-[70vh]   rounded-[30px]'>
         <div className='w-[100%] h-[60px] border-green-600 flex items-center justify-center text-[35px]'>MERN Development</div>
-        <div className='w-[100%] h-[130px] flex justify-center gap-3 '>
+        <div className='w-[100%] h-[130px] flex justify-center gap-3  '>
         
         <div className='w-[200px] h-[130px] flex items-center justify-center gap-[10px]'>
-        <div className='w-[25%] h-[18.vh] '>
+        <div className='w-[25%] h-[18vh] pt-[30px] '>
         <img src="https://vishal-resume.vercel.app/assets/html.png" alt="" />
         </div>
         <div>
@@ -64,7 +64,7 @@ const Home = () => {
         
         
         <div className='w-[200px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] '>
+        <div className='w-[25%] h-[18vh] pt-[30px] '>
         <img src="https://vishal-resume.vercel.app/assets/css.png" alt="" />
         </div>
         <div className=''>
@@ -83,7 +83,7 @@ const Home = () => {
         </div>
         </div>
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] '>
+        <div className='w-[25%] h-[18vh] pt-[30px] '>
         <img src="https://vishal-resume.vercel.app/assets/react.jpg" alt="" />
         </div>
         <div className=''>
@@ -92,7 +92,7 @@ const Home = () => {
         </div>
         </div>
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] '>
+        <div className='w-[25%] h-[18vh] pt-[30px] '>
         <img src="https://vishal-resume.vercel.app/assets/tailwind.png" alt="" />
         </div>
         <div className=''>
@@ -104,7 +104,7 @@ const Home = () => {
         <div className='w-[100%] h-[130px] flex justify-center gap-3 '>
         
         <div className='w-[200px] h-[130px] flex items-center justify-center gap-[10px]'>
-        <div className='w-[25%] h-[18.vh] '>
+        <div className='w-[25%] h-[18vh] pt-[30px] '>
         <img src="https://vishal-resume.vercel.app/assets/mongo.png" alt="" />
         </div>
         <div>
@@ -115,7 +115,7 @@ const Home = () => {
         
         
         <div className='w-[200px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] '>
+        <div className='w-[25%] h-[18vh] pt-[30px] '>
         <img src="https://vishal-resume.vercel.app/assets/docker.png" alt="" />
         </div>
         <div className=''>
@@ -127,7 +127,7 @@ const Home = () => {
         </div>
         
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] '>
+        <div className='w-[25%] h-[18vh] pt-[30px] '>
         <img src="https://vishal-resume.vercel.app/assets/ex.png" alt="" />
         </div>
         <div className=''>
@@ -136,7 +136,7 @@ const Home = () => {
         </div>
         </div>
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] '>
+        <div className='w-[25%] h-[18vh] pt-[30px] '>
         <img src="https://vishal-resume.vercel.app/assets/digi.png" alt="" />
         </div>
         <div className=''>
@@ -145,7 +145,7 @@ const Home = () => {
         </div>
         </div>
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] '>
+        <div className='w-[25%] h-[18vh] pt-[30px] '>
         <img src="https://vishal-resume.vercel.app/assets/git.png" alt="" />
         </div>
         <div className=''>
@@ -156,7 +156,7 @@ const Home = () => {
         </div>
         <div className='flex justify-center gap-[30px] pb-8'> 
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[15%] h-[18.vh] '>
+        <div className='w-[15%] h-[18vh] pt-[30px]'>
         <img src="https://vishal-resume.vercel.app/assets/linux.jpg" alt="" />
         </div>
         <div className=''>
@@ -178,7 +178,7 @@ const Home = () => {
         <div className='w-[26%] h-[40px]'>
         <img src="https://vishal-resume.vercel.app/assets/ndoe.png" alt="" />
         </div>
-        <div className=''>
+        <div>
         <h1 className='text-[20px] text-xl font-bold' >Node -js</h1>
         <h2 className='text-[20px]'>Intermediate</h2>
         
@@ -221,38 +221,38 @@ const Home = () => {
         <div className='w-[100%] h-[200vh] flex items-center gap-10 justify-evenly  flex-wrap pl-[250px] pr-[250px]  '> 
 
                 <div className='w-[30%] h-[75vh] rounded-[30px] border-4 border-black flex items-center justify-center gap-[30px] flex-col '>
-                    <img className='w-[85%] h-[40vh] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/akedu.png" alt="" />
+                    <img className='w-[85%] h-[40%] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/akedu.png" alt="" />
                     <h1 className='w-[85%] h-[100px] text-[35px] pl-[20px]'>Aspirings Ak-Product</h1>
                     <a href="https://ak-edu.vercel.app/"><button className='w-[130px] h-[60px]  border-2 hover:bg-black hover:text-white border-black rounded-[30px] text-lg font-bold'>Live Demo</button></a>
                 </div>
 
 
                 <div className='w-[30%] h-[75vh] rounded-[30px] border-4 border-black flex items-center justify-center gap-[30px] flex-col'>
-                <img className='w-[85%] h-[40vh] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/rentmyprop.png" alt="" />
+                <img className='w-[85%] h-[40%] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/rentmyprop.png" alt="" />
                     <h1 className='w-[85%] h-[100px] text-[35px] pl-[20px]'>Rent my Properties</h1>
                     <a href="https://therentmyproperties.com/"><button className='w-[130px] h-[60px]  border-2  hover:bg-black hover:text-white border-black rounded-[30px] text-lg font-bold'>Live Demo</button></a>
                 </div>
 
                 <div className='w-[30%] h-[75vh] rounded-[30px] border-4 border-black flex items-center justify-center gap-[30px] flex-col'>
-                <img className='w-[85%] h-[40vh] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/synerefe.png" alt="" />
+                <img className='w-[85%] h-[40%] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/synerefe.png" alt="" />
                     <h1 className='w-[85%] h-[100px] text-[35px] pl-[20px]'>Synerge - website</h1>
                     <a href="https://synerge.vercel.app/"><button className='w-[130px] h-[60px]  border-2 border-black rounded-[30px]  hover:bg-black hover:text-white text-lg font-bold'>Live Demo</button></a>
                 </div>
                 
                 <div className='w-[30%] h-[75vh] rounded-[30px] border-4 border-black flex items-center justify-center flex-col gap-[30px]'>
-                <img className='w-[85%] h-[40vh] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/kiteelle2.png" alt="" />
+                <img className='w-[85%] h-[40%] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/kiteelle2.png" alt="" />
                     <h1 className='w-[85%] h-[100px] text-[35px] pl-[20px]'>Kitelle</h1>
                     <a href="https://kitelle.com/"><button className='w-[130px] h-[60px]  border-2 border-black rounded-[30px] text-lg font-bold  hover:bg-black hover:text-white'>Live Demo</button></a>
                 </div>
 
                 <div className='w-[30%] h-[75vh] rounded-[30px] border-4 border-black flex items-center justify-center gap-[30px] flex-col'>
-                <img className='w-[85%] h-[40vh] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/aspironKhuze.png" alt="" />
+                <img className='w-[85%] h-[40%] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/aspironKhuze.png" alt="" />
                     <h1 className='w-[85%] h-[100px] text-[35px] pl-[20px]'>AspironKhuze</h1>
                     <a href="https://aspironkhuze.com/"><button className='w-[130px] h-[60px]  border-2 border-black rounded-[30px] text-lg font-bold  hover:bg-black hover:text-white'>Live Demo</button></a>
                 </div>
 
                 <div className='w-[30%] h-[75vh] rounded-[30px] border-4 border-black flex items-center justify-center gap-[30px] flex-col'>
-                <img className='w-[85%] h-[40vh] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/aktechs.png" alt="" />
+                <img className='w-[85%] h-[40%] rounded-[20px]' src="https://vishal-resume.vercel.app/assets/aktechs.png" alt="" />
                     <h1 className='w-[85%] h-[100px] text-[35px] pl-[100px] '>Ak-</h1>
                     <a href="https://aktechs.co.in/"><button className='w-[130px] h-[60px]  border-2 border-black rounded-[30px] text-lg font-bold  hover:bg-black hover:text-white'>Live Demo</button></a>  
                 </div>
