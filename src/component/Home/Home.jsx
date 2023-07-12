@@ -53,7 +53,7 @@ const Home = () => {
         <div className='w-[100%] h-[130px] flex justify-center gap-3 '>
         
         <div className='w-[200px] h-[130px] flex items-center justify-center gap-[10px]'>
-        <div className='w-[25%] h-[18.vh] bg-red-600'>
+        <div className='w-[25%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/html.png" alt="" />
         </div>
         <div>
@@ -64,7 +64,7 @@ const Home = () => {
         
         
         <div className='w-[200px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] bg-red-600'>
+        <div className='w-[25%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/css.png" alt="" />
         </div>
         <div className=''>
@@ -83,7 +83,7 @@ const Home = () => {
         </div>
         </div>
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] bg-red-600'>
+        <div className='w-[25%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/react.jpg" alt="" />
         </div>
         <div className=''>
@@ -92,7 +92,7 @@ const Home = () => {
         </div>
         </div>
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] bg-red-600'>
+        <div className='w-[25%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/tailwind.png" alt="" />
         </div>
         <div className=''>
@@ -104,7 +104,7 @@ const Home = () => {
         <div className='w-[100%] h-[130px] flex justify-center gap-3 '>
         
         <div className='w-[200px] h-[130px] flex items-center justify-center gap-[10px]'>
-        <div className='w-[25%] h-[18.vh] bg-red-600'>
+        <div className='w-[25%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/mongo.png" alt="" />
         </div>
         <div>
@@ -115,7 +115,7 @@ const Home = () => {
         
         
         <div className='w-[200px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] bg-red-600'>
+        <div className='w-[25%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/docker.png" alt="" />
         </div>
         <div className=''>
@@ -127,7 +127,7 @@ const Home = () => {
         </div>
         
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] bg-red-600'>
+        <div className='w-[25%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/ex.png" alt="" />
         </div>
         <div className=''>
@@ -136,7 +136,7 @@ const Home = () => {
         </div>
         </div>
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] bg-red-600'>
+        <div className='w-[25%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/digi.png" alt="" />
         </div>
         <div className=''>
@@ -145,7 +145,7 @@ const Home = () => {
         </div>
         </div>
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[25%] h-[18.vh] bg-red-600'>
+        <div className='w-[25%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/git.png" alt="" />
         </div>
         <div className=''>
@@ -156,7 +156,7 @@ const Home = () => {
         </div>
         <div className='flex justify-center gap-[30px] pb-8'> 
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[15%] h-[18.vh] bg-red-600'>
+        <div className='w-[15%] h-[18.vh] '>
         <img src="https://vishal-resume.vercel.app/assets/linux.jpg" alt="" />
         </div>
         <div className=''>
@@ -165,7 +165,7 @@ const Home = () => {
         </div>
         </div>
         <div className='w-[250px] h-[130px] flex items-center justify-center gap-[15px]'>
-        <div className='w-[15%]  bg-red-600'>
+        <div className='w-[15%]  '>
         <img src="https://vishal-resume.vercel.app/assets/firebas.png" alt="" />
         </div>
         <div className=''>
